@@ -123,18 +123,6 @@ The dataset ships with real-world messiness:
 
 ---
 
-## 📂 Repository Structure
-
-```
-📁 Automobile-EDA/
-├── 📓 Project_Automobile.ipynb   # Main analysis notebook
-├── 📄 Automobile_data.csv        # Dataset (UCI Automobile)
-├── 📁                    # All generated charts (9 plots)
-└── 📄 README.md
-```
-
----
-
 ## 🔑 Key Takeaways
 
 | Insight | Finding |
