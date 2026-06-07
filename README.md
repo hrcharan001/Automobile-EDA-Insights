@@ -25,17 +25,6 @@ The goal: clean messy real-world data and uncover meaningful patterns in the aut
 
 ---
 
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualisation-11557c)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4c8cbf)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-
----
-
 ## 🔄 Project Workflow
 
 ```
@@ -142,22 +131,6 @@ The dataset ships with real-world messiness:
 ├── 📄 Automobile_data.csv        # Dataset (UCI Automobile)
 ├── 📁                    # All generated charts (9 plots)
 └── 📄 README.md
-```
-
----
-
-## ▶️ How to Run
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/hrcharan001/Automobile-EDA.git
-cd Automobile-EDA
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn jupyter
-
-# 3. Launch the notebook
-jupyter notebook Project_Automobile.ipynb
 ```
 
 ---
